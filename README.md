@@ -335,3 +335,9 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Bypassing Google’s authentication to access their Internal Admin panels — Vishnu Prasad P G](https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3)
 - [Smart Contract Vulnerabilities](http://www.dasp.co/)
 - [Collection of Penetration Testing Whitepapers](https://www.sans.org/reading-room/whitepapers/testing) 
+- [Collection of 0day CVE](https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit#gid=1123292625)
+- [Jumbo Server Tutorials](https://www.server-world.info/en/) 
+- [Network Traffic Visualization with Scapy and ELK Stack](https://www.researchgate.net/publication/337304617_Network_Traffic_Visualization_with_Scapy_and_ELK_Stack) by Roshan Poudel
+- [OSCP GoldMine](http://0xc0ffee.io/blog/OSCP-Goldmine)
+- [Collection of Wireless Security Scripts in Python and Scapy](https://github.com/Roshan-Poudel/Wireless_Security_with_Python-Scapy)
+- [Red Teaming Experiments](https://www.ired.team/)
